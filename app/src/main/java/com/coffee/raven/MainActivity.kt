@@ -15,7 +15,7 @@ import java.util.*
 
 class MainActivity : AppCompatActivity() {
     companion object {
-        private const val ACCESS_TOKEN = "c958c18974944cab959689124d0413ba"
+        private const val ACCESS_TOKEN = ""
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
